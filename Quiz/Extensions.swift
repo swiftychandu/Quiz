@@ -11,6 +11,8 @@ import UIKit
 fileprivate var containerView: UIView!
 
 extension UIViewController {
+    
+    func addSubviews(views: UIView...) { views.forEach(view.addSubview) }
       
     func showLoadingView() {
         containerView = UIView(frame: view.bounds)
