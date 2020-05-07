@@ -1,0 +1,1 @@
+{"question": "The stride(from:to:by:) function is used:", "options": ["To create an interval including both the start and end values.", "To iterate over values of any type that conform to the Strideable protocol.", "To iterate over a few values that respect a particular condition.", "To validate an interval from a start value to an end value."], "answer": 0 }
